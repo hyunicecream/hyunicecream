@@ -1,6 +1,6 @@
-### Hi there 👋
-🎡Welcome to my playground🎢
-
+<div align="center">
+  
+🎡 Welcome to my playground 🎢
 <!--
 **hyunicecream/hyunicecream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunicecream31@gmail.com)](mailto:hyunicecream31@gmail.com)
 <a href="https://velog.io/@hyunicecream" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-https://velog.io/@hyunicecream
-
+</div>
