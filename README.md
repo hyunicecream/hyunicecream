@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunicecream&repo=github-readme-stats&theme=calm)](https://github.com/hyunicecream/github-readme-stats) -->
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-2E5C99?style=flat-square&logo=Amazon&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> 
