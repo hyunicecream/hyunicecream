@@ -1,5 +1,6 @@
-<div align="center">
-  
+<!-- left, center, right -->  
+<div align="left">
+
 🎡 Welcome to my playground 🎢
 <!--
 **hyunicecream/hyunicecream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +31,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> 
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunicecream&count_bg=%236BE9AD&title_bg=%23DD81DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunicecream&count_bg=%233D86C8&title_bg=%233D86C8&icon=github.svg&icon_color=%23000000&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunicecream&count_bg=%233D86C8&title_bg=%233D86C8&icon=github.svg&icon_color=%23000000&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunicecream&count_bg=%233D86C8&title_bg=%233D86C8&icon=github.svg&icon_color=%23FFFFFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunicecream31@gmail.com)](mailto:hyunicecream31@gmail.com) -->
 <!-- <a href="https://velog.io/@hyunicecream" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> -->
