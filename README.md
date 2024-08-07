@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MACOS-2E3440?style=flat&logo=macos&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
 
-## 🛠️ 개발 도구
+## 🛠️ 개발 도구 & 클라우드 및 서버
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual_Studio_Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat&logo=filezilla&logoColor=white"/>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-2E5C99?style=flat&logo=Amazon&logoColor=white"/>
 
 ## 🤖 인공지능 프레임워크
-<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LM_Studio-368CCB?style=flat&logo=coreldraw&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
