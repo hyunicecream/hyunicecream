@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MACOS-2E3440?style=flat&logo=macos&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
 
-## 🛠️ 개발 도구 & 클라우드 및 서버
+## 🛠️ 개발 도구
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual_Studio_Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat&logo=filezilla&logoColor=white"/>
