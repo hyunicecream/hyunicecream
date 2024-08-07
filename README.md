@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 
 ## 🖥️ 운영 체제
-<img src="https://img.shields.io/badge/MACOS-2E3440?style=flat&logo=macos&logoColor=white"/>
+<img src="https://img.shields.io/badge/mac_OS-2E3440?style=flat&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
 
 ## 🛠️ 개발 도구
