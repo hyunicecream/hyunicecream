@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 🤖 인공지능 프레임워크
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LM_Studio-368CCB?style=flat&logo=coreldraw&logoColor=white"/>
+<img src="https://img.shields.io/badge/LM_Studio-9013FE?style=flat&logo=coreldraw&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
