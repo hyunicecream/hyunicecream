@@ -57,11 +57,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
+<!--
 ## 📝 운영중인 블로그 및 커뮤니티 플랫폼
 <img src="https://img.shields.io/badge/Tistory-eb572d?style=flat&logo=Tistory&logoColor=white"/>
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
 <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat&logo=naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Naver_Cafe-03C75A?style=flat&logo=naver&logoColor=white"/>
+--> 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunicecream&layout=compact) -->
 
