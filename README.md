@@ -27,17 +27,17 @@ Here are some ideas to get you started:
 ## 💻 프로그래밍 언어
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 
-## 🖥️ 운영 체제
+<!-- ## 🖥️ 운영 체제
 <img src="https://img.shields.io/badge/mac_OS-2E3440?style=flat&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/> -->
 
 ## 🛠️ 개발 도구
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual_Studio_Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat&logo=filezilla&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat&logo=filezilla&logoColor=white"/> -->
 
-## ☁️ 클라우드 및 서버
-<img src="https://img.shields.io/badge/AWS-2E5C99?style=flat&logo=Amazon&logoColor=white"/>
+<!-- ## ☁️ 클라우드 및 서버
+<img src="https://img.shields.io/badge/AWS-2E5C99?style=flat&logo=Amazon&logoColor=white"/> -->
 
 ## 🤖 인공지능 프레임워크
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/>
 
-## 🚀 생산성 도구
+<!-- ## 🚀 생산성 도구 
 <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/> -->
 
 <!--
 ## 📝 운영중인 블로그 및 커뮤니티 플랫폼
